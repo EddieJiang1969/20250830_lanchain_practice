@@ -1,0 +1,2 @@
+# 20250830_lanchain_practice
+Python與LangChain生成式AI開發實戰班
