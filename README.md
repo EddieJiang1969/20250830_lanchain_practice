@@ -4,3 +4,4 @@ Python與LangChain生成式AI開發實戰班
 
  [Day1](https://www.youtube.com/watch?v=3jto8z9DNc8)
  
+##2025-09-06
